@@ -12,7 +12,7 @@
 <body style="background-image: url('public/imagenes/piso.jpg');
             background-repeat: no-repeat;
             z-index: -3;
-            background-size: 100vw 100vh;">
+            background-size: 150vw 150vh;">
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 <a class="navbar-brand" href="#">
@@ -78,11 +78,11 @@
 <div class="container">
   <table>
     <tr>
-      <td width="100px">
+      <td width="25px">
         <p>
           <center>
           <h4><b>1</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -90,7 +90,7 @@
         <p>
           <center>
           <h4><b>2</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -98,7 +98,7 @@
         <p>
           <center>
           <h4><b>3</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -106,7 +106,7 @@
         <p>
           <center>
           <h4><b>4</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -114,7 +114,7 @@
         <p>
           <center>
           <h4><b>5</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -122,7 +122,7 @@
         <p>
           <center>
           <h4><b>6</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -130,7 +130,7 @@
         <p>
           <center>
           <h4><b>7</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -138,7 +138,7 @@
         <p>
           <center>
           <h4><b>8</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -146,7 +146,7 @@
         <p>
           <center>
           <h4><b>9</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
@@ -154,12 +154,68 @@
         <p>
           <center>
           <h4><b>10</b></h4>
-          <img src="public/imagenes/auto.png" width="100px" alt="">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
     </tr>
-  </table>
+    <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>1</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>2</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>3</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>4</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>5</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>6</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>7</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h4 style="margin: 0; font-size: 18px;"><b>8</b></h4>
+      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
+    </td>
+  </tr>
+  
+  
+  
+  
+</table>
+
+
+
+
 </div>
 
     
