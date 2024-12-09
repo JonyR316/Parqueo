@@ -150,72 +150,8 @@
           </center>
         </p>
       </td>
-      <td width="100px">
-        <p>
-          <center>
-          <h4><b>10</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
     </tr>
-    <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>1</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>2</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>3</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>4</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>5</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>6</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>7</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" style="display: flex; align-items: center; margin-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 18px;"><b>8</b></h4>
-      <img src="public/imagenes/auto.png" width="75px" alt="" style="transform: rotate(-90deg); margin-left: 10px;">
-    </td>
-  </tr>
-  
-  
-  
-  
 </table>
-
-
-
-
 </div>
 
     
