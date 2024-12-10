@@ -158,14 +158,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 20%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>11</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
+      
       <td width="100px" style="position: absolute; left: 0; top: 30%; transform: rotate(-90deg);">
         <p>
           <center>
@@ -230,14 +223,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 110%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>20</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
+      
       <td width="100px" style="position: absolute; bottom: -40%; left: 6%; transform: rotate(180deg);">
         <p>
           <center>
@@ -318,93 +304,75 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 14%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 14%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>31</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>31</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 22%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 22%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>32</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>32</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 30%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 30%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>33</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>33</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 38%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 38%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>34</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>34</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 46%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 46%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>35</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>35</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 54%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 54%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>36</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>36</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 62%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 62%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>37</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>37</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 70%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 70%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>38</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>38</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 30%; left: 78%; transform: rotate(180deg);">
-        <p style="position: relative; margin: 0;">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 78%; transform: rotate(180deg);">
+        <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%) rotate(180deg); z-index: -1;">
-          <b>39</b>
-          </h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="" style="position: relative; z-index: 1;">
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>39</b></h4>
           </center>
         </p>
       </td>
