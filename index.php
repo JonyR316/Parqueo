@@ -188,8 +188,7 @@
           </center>
         </p>
       </td>
-      
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 24%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 24%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -200,7 +199,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 37%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 37%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -211,7 +210,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 50%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 50%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -222,7 +221,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 63%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 63%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -232,7 +231,7 @@
           <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
-        <td width="80px" height="120px" style="position: absolute; left: 0; top: 76%; transform: rotate(-90deg);border: 1px solid #ccc;
+        <td width="80px" height="130px" style="position: absolute; left: 1%; top: 76%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -243,7 +242,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 89%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 89%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -254,7 +253,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; left: 0; top: 102%; transform: rotate(-90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; left: 1%; top: 102%; transform: rotate(-90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -267,7 +266,7 @@
       </td>
       
       
-      <td width="100px" style="position: absolute; bottom: -40%; left: 6%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 9%; transform: rotate(180deg);border: 1px solid #ccc;
                  margin-bottom: 15px;
                  box-shadow: 9px 3px 12px #000;
                  margin-top: 15px;">
@@ -278,7 +277,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 14%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 17%; transform: rotate(180deg);border: 1px solid #ccc;
                  margin-bottom: 15px;
                  box-shadow: 9px 3px 12px #000;
                  margin-top: 15px;">
@@ -289,7 +288,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 22%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 25%; transform: rotate(180deg);border: 1px solid #ccc;
                  margin-bottom: 15px;
                  box-shadow: 9px 3px 12px #000;
                  margin-top: 15px;">
@@ -300,7 +299,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 30%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 33%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -311,7 +310,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 38%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 41%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -322,7 +321,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 46%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 49%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -333,7 +332,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 54%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 57%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -344,7 +343,7 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 62%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td width="100px" style="position: absolute; bottom: -40%; left: 65%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -355,7 +354,7 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: -40%; left: 70%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td td width="100px" style="position: absolute; bottom: -40%; left: 73%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -366,7 +365,7 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: -40%; left: 78%; transform: rotate(180deg);border: 1px solid #ccc;
+      <td td width="100px" style="position: absolute; bottom: -40%; left: 81%; transform: rotate(180deg);border: 1px solid #ccc;
                      margin-bottom: 15px;
                      box-shadow: 9px 3px 12px #000;
                      margin-top: 15px;">
@@ -575,7 +574,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; bottom: -10%; rigth: 78%; transform: rotate(90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; bottom: -10%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -587,7 +586,7 @@
           </center>
         </p>
       </td>
-      <td width="80px" height="120px" style="position: absolute; bottom: -23%; rigth: 78%; transform: rotate(90deg);border: 1px solid #ccc;
+      <td width="80px" height="130px" style="position: absolute; bottom: -23%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
                 margin-bottom: 15px;
                 box-shadow: 9px 3px 12px #000;
                 margin-top: 15px;">
@@ -599,10 +598,60 @@
           </center>
         </p>
       </td>
-      
-      
+      <td width="80px" height="130px" style="position: absolute; bottom: 3%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>48</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          
+          </center>
+        </p>
+      </td>
+      <td width="80px" height="130px" style="position: absolute; bottom: 16%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>49</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          
+          </center>
+        </p>
+      </td>
+      <td width="80px" height="130px" style="position: absolute; bottom: 29%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>50</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          
+          </center>
+        </p>
+      </td>
+      <td width="80px" height="130px" style="position: absolute; bottom: 42%; left: 92%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>51</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          
+          </center>
+        </p>
+      </td>
     </tr>
 </table>
+<div style="position: absolute; bottom: 72%; left: 84%;">
+<img src="public/imagenes/peaje.png" width="220px" alt="">
+</div>
+
 </div>
 
     
