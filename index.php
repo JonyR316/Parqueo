@@ -78,7 +78,10 @@
 <div class="container">
   <table>
     <tr>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>1</b></h4>
@@ -86,7 +89,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>2</b></h4>
@@ -94,7 +100,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>3</b></h4>
@@ -102,7 +111,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>4</b></h4>
@@ -110,7 +122,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>5</b></h4>
@@ -118,7 +133,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>6</b></h4>
@@ -126,7 +144,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>7</b></h4>
@@ -134,7 +155,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>8</b></h4>
@@ -142,7 +166,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>9</b></h4>
@@ -150,7 +177,10 @@
           </center>
         </p>
       </td>
-      <td width="100px">
+      <td width="100px" style="border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">                
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px;"><b>10</b></h4>
@@ -159,7 +189,21 @@
         </p>
       </td>
       
-      <td width="100px" style="position: absolute; left: 0; top: 30%; transform: rotate(-90deg);">
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 24%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>11</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          </center>
+        </p>
+      </td>
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 37%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>12</b></h4>
@@ -167,7 +211,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 40%; transform: rotate(-90deg);">
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 50%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>13</b></h4>
@@ -175,15 +222,20 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 50%; transform: rotate(-90deg);">
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 63%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>14</b></h4>
           <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
-      </td>
-      <td width="100px" style="position: absolute; left: 0; top: 60%; transform: rotate(-90deg);">
+        <td width="80px" height="120px" style="position: absolute; left: 0; top: 76%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>15</b></h4>
@@ -191,7 +243,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; left: 0; top: 70%; transform: rotate(-90deg);">
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 89%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>16</b></h4>
@@ -199,7 +254,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 80%; transform: rotate(-90deg);">
+      <td width="80px" height="120px" style="position: absolute; left: 0; top: 102%; transform: rotate(-90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>17</b></h4>
@@ -207,24 +265,45 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; left: 0; top: 90%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>18</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
-      <td width="100px" style="position: absolute; left: 0; top: 100%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(90deg)"><b>19</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
       
-      <td width="100px" style="position: absolute; bottom: -40%; left: 6%; transform: rotate(180deg);">
+      
+      <td width="100px" style="position: absolute; bottom: -40%; left: 6%; transform: rotate(180deg);border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>18</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          </center>
+        </p>
+      </td>
+      <td width="100px" style="position: absolute; bottom: -40%; left: 14%; transform: rotate(180deg);border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>19</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          </center>
+        </p>
+      </td>
+      <td width="100px" style="position: absolute; bottom: -40%; left: 22%; transform: rotate(180deg);border: 1px solid #ccc;
+                 margin-bottom: 15px;
+                 box-shadow: 9px 3px 12px #000;
+                 margin-top: 15px;">
+        <p>
+          <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>20</b></h4>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
+          </center>
+        </p>
+      </td>
+      <td width="100px" style="position: absolute; bottom: -40%; left: 30%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>21</b></h4>
@@ -232,7 +311,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 14%; transform: rotate(180deg);">
+      <td width="100px" style="position: absolute; bottom: -40%; left: 38%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>22</b></h4>
@@ -240,7 +322,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 22%; transform: rotate(180deg);">
+      <td width="100px" style="position: absolute; bottom: -40%; left: 46%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>23</b></h4>
@@ -248,7 +333,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 30%; transform: rotate(180deg);">
+      <td width="100px" style="position: absolute; bottom: -40%; left: 54%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>24</b></h4>
@@ -256,7 +344,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 38%; transform: rotate(180deg);">
+      <td width="100px" style="position: absolute; bottom: -40%; left: 62%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>25</b></h4>
@@ -264,7 +355,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 46%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: -40%; left: 70%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>26</b></h4>
@@ -272,7 +366,10 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 54%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: -40%; left: 78%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>27</b></h4>
@@ -280,31 +377,43 @@
           </center>
         </p>
       </td>
-      <td width="100px" style="position: absolute; bottom: -40%; left: 62%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 14%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>28</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: -40%; left: 70%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 22%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
+          <img src="public/imagenes/auto.png" width="75px" alt="">
           <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>29</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: -40%; left: 78%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 30%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>30</b></h4>
           <img src="public/imagenes/auto.png" width="75px" alt="">
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>30</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 14%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 38%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -312,7 +421,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 22%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 46%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -320,7 +432,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 30%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 54%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -328,7 +443,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 38%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 62%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -336,7 +454,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 46%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 70%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -344,7 +465,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 54%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 28%; left: 78%; transform: rotate(180deg);border: 1px solid #ccc;
+                     margin-bottom: 15px;
+                     box-shadow: 9px 3px 12px #000;
+                     margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -352,31 +476,43 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 62%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 14%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>37</b></h4>
+          <h4 style="margin: 0; font-size: 18px;"><b>37</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 70%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 22%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>38</b></h4>
+          <h4 style="margin: 0; font-size: 18px;"><b>38</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 28%; left: 78%; transform: rotate(180deg);">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 30%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg);"><b>39</b></h4>
+          <h4 style="margin: 0; font-size: 18px;"><b>39</b></h4>
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 14%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 38%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -384,7 +520,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 22%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 46%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -392,7 +531,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 30%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 54%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -400,7 +542,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 38%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 62%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -408,7 +553,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 46%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 70%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -416,7 +564,10 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 54%;">
+      <td td width="100px" style="position: absolute; bottom: 7%; left: 78%;border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
           <img src="public/imagenes/auto.png" width="75px" alt="">
@@ -424,46 +575,31 @@
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 62%;">
+      <td width="80px" height="120px" style="position: absolute; bottom: -10%; rigth: 78%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>46</b></h4>
           <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px;"><b>46</b></h4>
+          
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 70%;">
+      <td width="80px" height="120px" style="position: absolute; bottom: -23%; rigth: 78%; transform: rotate(90deg);border: 1px solid #ccc;
+                margin-bottom: 15px;
+                box-shadow: 9px 3px 12px #000;
+                margin-top: 15px;">
         <p>
           <center>
+          <h4 style="margin: 0; font-size: 18px; transform: rotate(-90deg);"><b>47</b></h4>
           <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px;"><b>47</b></h4>
+          
           </center>
         </p>
       </td>
-      <td td width="100px" style="position: absolute; bottom: 7%; left: 78%;">
-        <p>
-          <center>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          <h4 style="margin: 0; font-size: 18px;"><b>48</b></h4>
-          </center>
-        </p>
-      </td>
-      <td width="100px" style="position: absolute; rigth: 0; top: 100%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 100%; left: 50%; transform: translate(-50%, -50%) rotate(90deg); z-index: -1;"><b>49</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
-      <td width="100px" style="position: absolute; rigth: 0; top: 110%; transform: rotate(-90deg);">
-        <p>
-          <center>
-          <h4 style="margin: 0; font-size: 18px; transform: rotate(180deg); position: absolute; top: 100%; left: 50%; transform: translate(-50%, -50%) rotate(90deg); z-index: -1;"><b>50</b></h4>
-          <img src="public/imagenes/auto.png" width="75px" alt="">
-          </center>
-        </p>
-      </td>
+      
       
     </tr>
 </table>
