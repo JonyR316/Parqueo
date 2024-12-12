@@ -70,8 +70,10 @@
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+      LOGIN
+      </button>
   </div>
 </nav>
 
@@ -656,19 +658,15 @@
 
     
     <!-- Option 2: Separate Popper and Bootstrap JS -->
-    
-    <script src="public/js/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="public/js/jquery-3.5.1.min.js"></script>
     <script src="public/js/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="public/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    <script src="public/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
     
 </body>
 </html>
 
 
-<!-- Button trigger modal -->
-<button width="80px" height="130px" style="position: absolute; left: 4%; top: 15%"; type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-  Launch
-</button>
+
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -685,7 +683,7 @@
          <div class="col-md-12">
             <div class="form-group">
               <label for="">USUARIO/EMAIL</label>
-              <input type="email" class="form-control" style="border: 1px solid #ccc;
+              <input type="email" id="usuario" class="form-control" style="border: 1px solid #ccc;
                                                               margin-bottom: 15px;
                                                               box-shadow: 9px 3px 12px #000;
                                                               margin-top: 15px;">
@@ -694,18 +692,38 @@
          <div class="col-md-12">
             <div class="form-group">
               <label for="">CONTRASEÑA</label>
-              <input type="password" class="form-control" style="border: 1px solid #ccc;
+              <input type="password" id="password" class="form-control" style="border: 1px solid #ccc;
                                                               margin-bottom: 15px;
                                                               box-shadow: 9px 3px 12px #000;
                                                               margin-top: 15px;">
            </div>
          </div>
         </div>
-      </div>
+        <div id="respuesta"></div>
+       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border: 1px solid #ccc;
+                                                              margin-bottom: 15px;
+                                                              box-shadow: 9px 3px 12px #000;
+                                                              margin-top: 15px;">CANCELAR</button>
+        <button type="button" class="btn btn-primary" id="btn_ingresar" style="border: 1px solid #ccc;
+                                                              margin-bottom: 15px;
+                                                              box-shadow: 9px 3px 12px #000;
+                                                              margin-top: 15px;">INGRESAR</button>
       </div>
     </div>
   </div>
 </div>
+
+<script>
+$('#btn_ingresar').click(function(){
+  var usuario = $('#usuario').val();
+  var password_user = $('#password').val();
+
+  var url = 'login/controller_login.php'
+  $.post(url , {usuario:usuario , password_user:password_user}, function(datos){
+    $('#respuesta').html(datos)
+  });
+
+});
+</script>
