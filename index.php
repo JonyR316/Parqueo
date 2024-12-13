@@ -671,7 +671,7 @@
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
-    <div class="modal-content">
+    <div class="modal-content" style="border: 1px solid #ccc; margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">INICIO DE SESION</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -683,33 +683,21 @@
          <div class="col-md-12">
             <div class="form-group">
               <label for="">USUARIO/EMAIL</label>
-              <input type="email" id="usuario" class="form-control" style="border: 1px solid #ccc;
-                                                              margin-bottom: 15px;
-                                                              box-shadow: 9px 3px 12px #000;
-                                                              margin-top: 15px;">
+              <input type="email" id="usuario" class="form-control" style="border: 1px solid #ccc; margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">
            </div>
          </div>
          <div class="col-md-12">
             <div class="form-group">
               <label for="">CONTRASEÑA</label>
-              <input type="password" id="password" class="form-control" style="border: 1px solid #ccc;
-                                                              margin-bottom: 15px;
-                                                              box-shadow: 9px 3px 12px #000;
-                                                              margin-top: 15px;">
+              <input type="password" id="password" class="form-control" style="border: 1px solid #ccc; margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">
            </div>
          </div>
         </div>
         <div id="respuesta"></div>
        </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="border: 1px solid #ccc;
-                                                              margin-bottom: 15px;
-                                                              box-shadow: 9px 3px 12px #000;
-                                                              margin-top: 15px;">CANCELAR</button>
-        <button type="button" class="btn btn-primary" id="btn_ingresar" style="border: 1px solid #ccc;
-                                                              margin-bottom: 15px;
-                                                              box-shadow: 9px 3px 12px #000;
-                                                              margin-top: 15px;">INGRESAR</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style=" margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">CANCELAR</button>
+        <button type="button" class="btn btn-primary" id="btn_ingresar" style=" margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">INGRESAR</button>
       </div>
     </div>
   </div>
@@ -717,13 +705,31 @@
 
 <script>
 $('#btn_ingresar').click(function(){
+ login();
+});
+
+$('#password').keypress(function(e){
+  if(e.which == 13){
+    login();
+  }
+})
+
+function login(){
   var usuario = $('#usuario').val();
   var password_user = $('#password').val();
 
-  var url = 'login/controller_login.php'
+  if(usuario == ""){
+    alert ('LLENAR EL ESPACIO DE USUARIO.....');
+    $('#usuario').focus();
+  }else if(password_user == ""){
+    alert ('LLENAR EL ESPACIO DE CONTRASEÑA.....');
+    $('#password').focus();
+  }else{
+    var url = 'login/controller_login.php'
   $.post(url , {usuario:usuario , password_user:password_user}, function(datos){
     $('#respuesta').html(datos)
   });
+  } 
+}
 
-});
 </script>

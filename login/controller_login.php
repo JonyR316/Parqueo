@@ -1,28 +1,59 @@
 <?php
 
-$usuario = $_POST['usuario'];
+include('../app/config.php');
+
+session_start();
+
+$usuario_user = $_POST['usuario'];
 $password_user = $_POST['password_user'];
 
 //echo $usuario." - ".$password_user;
+$email_tabla = ''; $password_tabla = '';
 
-if($usuario == "jko_wy316@hotmail.com"){
+$query_login = $pdo->prepare("SELECT * FROM tb_usuarios WHERE email = '$usuario_user' AND password_user = '$password_user' AND estado = '1'");
+$query_login->execute();
+$usuarios = $query_login->fetchall(PDO::FETCH_ASSOC);
+foreach($usuarios as $usuario){
+    $email_tabla = $usuario['email'];
+    $password_tabla = $usuario['password_user'];
+}
+
+if(($usuario_user == $email_tabla) && ($password_user == $password_tabla)){
     ?>
-    <div class="alert alert-success" role="alert" style="border: 1px solid #ccc;
+    <div class="alert alert-success" role="alert" style="border: 1px solid #ccc; margin-bottom: 15px;box-shadow: 9px 3px 12px #000; margin-top: 15px;">
+        <center><b>USUARIO CORRECTO</b></center>
+        </div>
+        <script>location.href = "principal.php"</script>
+        <?php
+        $_SESSION['usuario_sesion'] = $email_tabla ;
+}else{
+    ?>
+    <div class="alert alert-danger" role="alert" style="border: 1px solid #ccc; margin-bottom: 15px; box-shadow: 9px 3px 12px #000; margin-top: 15px;">
+        <center><b>DATOS INCORRECTOS</b></center>
+        </div>
+        <script>$('#password').val("");$('#password').focus();</script>
+        <?php
+}
+
+
+//if($usuario == "jlc.rodriguez316@hotmail.com"){
+    //?>
+    <!--<div class="alert alert-success" role="alert" style="border: 1px solid #ccc;
                                                               margin-bottom: 15px;
                                                               box-shadow: 9px 3px 12px #000;
                                                               margin-top: 15px;">
         USUARIO CORRECTO
-        </div>
+        </div> -->
     <?php
-}else{
-    ?>
-    <div class="alert alert-danger" role="alert" style="border: 1px solid #ccc;
+//}else{
+   // ?>
+    <!--<div class="alert alert-danger" role="alert" style="border: 1px solid #ccc;
                                                               margin-bottom: 15px;
                                                               box-shadow: 9px 3px 12px #000;
                                                               margin-top: 15px;">
         USUARIO INCORRECTO
-        </div>
+        </div> -->
     <?php
-}
+//}
 
 ?>
