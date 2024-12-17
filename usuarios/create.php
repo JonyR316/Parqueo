@@ -14,7 +14,7 @@
   <div class="content-wrapper">
     <div class="container">
       
-        <h2>LISTADO DE USUARIOS</h2>
+        <h2>CREAR USUARIOS</h2>
       
     </div>
 
